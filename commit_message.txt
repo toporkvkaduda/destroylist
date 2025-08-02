@@ -1,6 +1,6 @@
-Sync: +9 from OpenPhish
+Sync: -6 from OpenPhish
 
-Total domains in the list is now 52563.
+Total domains in the list is now 52557.
 
 Summary of external changes:
-- OpenPhish: +9 domains
+- OpenPhish: -6 domains
