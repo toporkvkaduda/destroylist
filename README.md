@@ -1,136 +1,151 @@
-# 🎣 Destroylist: Phishing & Scam Domain Blacklist 🚀
+🎣 Destroylist: Phishing & Scam Domain Blacklist 🚀
 
-![Destroyolist Illustration](destroyolist_image.png)
+⚡ Quick Overview & Access 🔥
+Project Status
 
-## ⚡ Quick Overview & Access 🔥
+Domain Counters 📊
 
-### General Project Status
-![Status](https://img.shields.io/badge/status-maintained-brightgreen?style=flat-square) 
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square) 
-![Contributions](https://img.shields.io/badge/contributions-welcome-orange?style=flat-square) 
-![Updated](https://img.shields.io/badge/auto--updated-yes-success?style=flat-square)
+Data Feeds 🔗
 
-### Current Domain Counters 📊
-![Active Domains](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/count.json&label=Active%20Domains&color=important&style=flat-square)
-![Active Domains (DNS Checked)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_count.json&label=Active%20Domains%20(DNS%20Checked)&color=purple&style=flat-square)
-![Total Domains (Community)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/count.json&label=Total%20Domains%20(Community)&color=blue&style=flat-square)
 
-### Direct Data Feeds 🔗
-| Data Feed | Description | Link |
-|-----------|-------------|------|
-| Primary Curated List | Core phishing/scam domains, real-time updates | [list.json](https://github.com/phishdestroy/destroylist/raw/main/list.json) |
-| Active DNS-Verified | DNS-checked live threats | [active_domains.json](https://github.com/phishdestroy/destroylist/raw/main/dns/active_domains.json) |
-| Community General | Broad aggregated blocklist, hourly updates | [blocklist.json](https://github.com/phishdestroy/destroylist/raw/main/community/blocklist.json) |
-| Community Live | DNS-checked active community threats | [live_blocklist.json](https://github.com/phishdestroy/destroylist/raw/main/community/live_blocklist.json) |
 
-### Connect With Us 📡
-| Platform | Link |
-|----------|------|
-| Website | [phishdestroy.io](https://phishdestroy.io) |
-| Telegram Alerts | [t.me/PhishDestroyAlerts](https://t.me/PhishDestroyAlerts) |
-| Telegram Bot | [t.me/PhishDestroy_bot](https://t.me/PhishDestroy_bot) |
-| Twitter / X | [x.com/Phish_Destroy](https://x.com/Phish_Destroy) |
-| Ban Service | [ban.destroy.tools](https://ban.destroy.tools) |
+Data Feed
+Description
+Link
 
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Phish+domains%3F+Destroyed.+Next!+%F0%9F%92%A5)](https://git.io/typing-svg)
 
-## 🛡️ About Destroylist 💥
 
-> ⚡ **Live data collection began on July 1, 2025**
+Primary Curated List
+Core phishing/scam domains, real-time updates
+list.json
 
-Destroylist is your ultimate weapon against phishing and scams! Actively maintained blacklist powered by **PhishDestroy**. Reliable intel for:
 
-✅ Firewalls  
-✅ DNS resolvers  
-✅ Browser extensions  
+Active DNS-Verified
+DNS-checked live threats
+active_domains.json
+
+
+Community General
+Broad aggregated blocklist, hourly updates
+blocklist.json
+
+
+Community Live
+DNS-checked active community threats
+live_blocklist.json
+
+
+Connect With Us 📡
+
+
+
+Platform
+Link
+
+
+
+Website
+phishdestroy.io
+
+
+Telegram Alerts
+t.me/PhishDestroyAlerts
+
+
+Telegram Bot
+t.me/PhishDestroy_bot
+
+
+Twitter / X
+x.com/Phish_Destroy
+
+
+Ban Service
+ban.destroy.tools
+
+
+
+
+🛡️ About Destroylist 💥
+
+⚡ Live data collection began on July 1, 2025
+
+Destroylist is a powerful tool against phishing and scams, powered by PhishDestroy. It provides reliable intel for:
+
+✅ Firewalls
+✅ DNS resolvers
+✅ Browser extensions
 ✅ Threat platforms
 
-Protect the web – one domain at a time! 🌐
+Protect the web, one domain at a time! 🌐
+🚨 Key Info for Online Fraud Victims 🚨
+Destroylist aims to disable malicious domains, targeting scams, phishing, and illicit sites to enhance internet safety.
+Before adding a domain, we:
 
----
+Scan it across cybersecurity platforms for threat intelligence.
+Send a complaint to the registrar and host (via WHOIS), including scan results, domain screenshots, and a request to investigate their client, notifying them of our public database entry.
 
-## 🚀 Update Process 🛠️
+Per ICANN rules, registrars must review complaints within 24 hours.
+If scammed by a listed domain, check its addition date via commit history, Telegram, or Mastodon. If fraud occurred after listing, the registrar or host’s delay may share responsibility for your loss. They could assist you or your legal team.
+🚀 Update Process 🛠️
 
-- 🔎 **Gather:** Non-stop phishing domain collection via PhishDestroy.
-- 🔄 **Sync:** Cross-check with trusted sources.
-- ⚡ **Add:** Real-time malicious domain integration.
-- 🧹 **Clean:** Dedupe & remove inactive/expired.
+🔎 Gather: Continuous phishing domain collection via PhishDestroy.
+🔄 Sync: Cross-check with trusted sources.
+⚡ Add: Real-time malicious domain integration.
+🧹 Clean: Deduplicate and remove inactive/expired domains.
 
-**Pro Cleanup Mode:**
-- 🖧 Ping/DNS scans.
-- ❌ Nuke expired.
-- 💾 (Coming) Ultra-active feeds.
+Pro Cleanup Mode:
 
----
+🖧 Ping/DNS scans.
+❌ Remove expired domains.
+💾 (Coming) Ultra-active feeds.
 
-## 🎯 Goals & Usage 🎮
+🎯 Goals & Usage 🎮
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cyber+threats%3F+Listed.+Combat!+%F0%9F%92%A5)](https://git.io/typing-svg)
+Use Destroylist for:
 
-Share the power! Use for:
-
-✔️ Security gear  
-✔️ Scripts & automation  
-✔️ Research dives  
+✔️ Security gear
+✔️ Scripts & automation
+✔️ Research dives
 ✔️ Monitoring ops
 
-Open collab = Stronger security. Let's team up! 🤝
+Open collaboration = Stronger security. Let's team up! 🤝
+📂 Data Breakdown 📁
 
----
-
-## 📂 Data Breakdown 📁
-
-- **Primary (`list.json`):** Core curated phishing list, JSON, real-time.
-- **Active DNS (`dns/active_domains.json`):** Verified live threats, plug & play.
-- **Community General (`community/blocklist.json`):** Broad aggregated blocklist, hourly.
-- **Community Live (`community/live_blocklist.json`):** DNS-checked active community threats.
+Primary (list.json): Core curated phishing list, JSON, real-time.
+Active DNS (dns/active_domains.json): Verified live threats, plug & play.
+Community General (community/blocklist.json): Broad aggregated blocklist, hourly.
+Community Live (community/live_blocklist.json): DNS-checked active community threats.
 
 All JSON, ready to roll! 🚀
+🗂️ Historical Vault 🏛️
 
----
+Archive of 500,000+ domains over 5+ years. Ideal for:
 
-## 🗂️ Historical Vault 🏛️
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=500K%2B+domains%3F+Dealt+with.+Next!+%F0%9F%92%A5)](https://git.io/typing-svg)
-
-Epic archive: **500,000+** domains over 5+ years. Perfect for:
-
-🤖 AI training  
-🔬 Research  
+🤖 AI training
+🔬 Research
 📈 Trends
 
-> 📩 Hit us up at [phishdestroy.io](https://phishdestroy.io) for access!
 
----
+📩 Contact us at phishdestroy.io for access!
 
-## 🔗 Appeals Process ⚖️
-
+🔗 Appeals Process ⚖️
 Wrongly listed? Fix it fast:
 
-✅ [Appeals Form](https://phishdestroy.io/appeals/)  
+✅ Appeals Form
 ✅ GitHub Issue with proof.
 
 Accuracy first! 🔍
+📄 License 📜
 
----
+MIT – Free, open, yours to hack!
 
-## 📄 License 📜
 
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+🤝 Join the Fight! ⚔️
+Got ideas, sources, or improvements?
 
-**MIT** – Free, open, yours to hack!
-
----
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-## 🤝 Join the Fight! ⚔️
-
-Ideas? Sources? Improvements?
-
-💡 Detection tweaks  
-🔗 Integration tips  
+💡 Detection tweaks
+🔗 Integration tips
 🛰️ Fresh intel
 
-Drop Issues/PRs – let's crush phish together! 💪
+Drop Issues/PRs – let's crush phishing together! 💪
